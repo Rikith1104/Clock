@@ -1,0 +1,2 @@
+c:\users\findler\documents\visual studio 2015\Projects\Clock\Clock\bin\Debug\Clock.exe.config
+C:\Users\kavya\Desktop\Clock\Clock\bin\Debug\Clock.exe.config
